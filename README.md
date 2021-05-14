@@ -1,4 +1,2 @@
 # st4s.github.io
-* May 14 2021- 
-  *Created 
-  *Attempted to add Netlify
+* May 14 2021- Created, attempted to add Netifly
